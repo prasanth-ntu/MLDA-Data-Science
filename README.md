@@ -15,6 +15,8 @@
 		- [Step 1b - Jupyter Notebook in Browser](#step-1b-jupyter-notebook-in-browser)
 		- [Step 1c - Jupyter Notebook Installation](#step-1c-jupyter-notebook-installation)
 	- [Step 2 - Opening a notebook](#step-2-opening-a-notebook)
+- [Miscallaneous](#miscallaneous)
+	- [Download Github folder](#download-github-folder)
 
 <!-- /TOC -->
 
@@ -72,3 +74,14 @@
 - Click `File > New Python 3 Notebook` to create a new `.ipynb` file online
 - Wondering what's a notebook?
     - Think of it like a word document where you can write your python code, run and see the outputs, add comments and notes, insert images, etc. in one place.
+
+# Miscallaneous
+## Download Github folder
+- To download entire github repository, click on `Clone or Download > Download Zip`
+![Download github repo](readme_resources/download_github_repo.png)
+
+- To download a specific folder in github repo,
+	- Copy the folder url as shown below and
+![Download github specific folder 1](readme_resources/download_github_folder_1.png)
+	- Go to [https://minhaskamal.github.io/DownGit/](https://minhaskamal.github.io/DownGit/#/home) and Paste the url ![Download github specific folder 2](readme_resources/download_github_folder_2.png)
+	- Hit `Download` to download the folder/file
